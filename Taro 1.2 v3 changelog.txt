@@ -1,0 +1,8 @@
+Taro Reicepe & Utilities Updare 1.2 v3 Changelog:
+---------------------------------------------------------------------------------------------------------------------------------
+- Fixed a duping bug with glowstone.
+---------------------------------------------------------------------------------------------------------------------------------
+Unregistered Copyright from Leo_craft1, every un-authorized use of this resource can be punished.
+Ask before use this resource.
+
+Made by using open-source McReator. 
