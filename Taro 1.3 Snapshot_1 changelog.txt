@@ -1,0 +1,13 @@
+Taro Caves & Ores Update 1.3 Snapshot_1 changelog:
+---------------------------------------------------------------------------------------------------------------------------------
+- Inserted an addition pack that gives you speed when walking on a street
+- Glowstone duping bug still affects the game until testbuild_8
+- Now mining different ores gives you more raw ores, affected by fortune, unfortunately this does not seem working until testbuild_9.
+  Iron 1-4, Diamond 1-2, Copper 1-6, Coal 1-5.
+- Now mining deepslate ores gives you more raw ores, affected by fortune, unfortunately this does not seem working until testbuild_9.
+  Iron 1-4, Diamond 1-2, Copper 1-6, Coal 1-5.
+---------------------------------------------------------------------------------------------------------------------------------
+Unregistered Copyright from Leo_craft1, every un-authorized use of this resource can be punished.
+Ask before use this resource.
+
+Made by using open-source McReator. 
